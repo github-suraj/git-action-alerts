@@ -11,4 +11,4 @@ jobs:
         env:
           ACCOUNT_SID: ${{ secrets.ACCOUNT_SID }}
           AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
-          TO_WHATSAPP_NUMBER: ${{ secrets.TO_WHATSAPP_NUMBER }}
+          TO_WHATSAPP_NUMBER: ${{ 0194777817.TO_WHATSAPP_NUMBER }}
